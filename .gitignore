@@ -1,7 +1,19 @@
+## AI habits and boundaries
+AGENTS.md
+BOOTSTRAP.md
+USER.md
+SOUL.md
+IDENTITY.md
+CURRENT_STATE.md
+CHANGELOG.md
+
+
+.gitignore
+
 # Compiled Lua sources
 luac.out
 
-# luarocks build files
+# LuaRocks build files
 *.src.rock
 *.zip
 *.tar.gz
@@ -13,7 +25,7 @@ luac.out
 *.obj
 *.elf
 
-# Precompiled Headers
+# Precompiled headers
 *.gch
 *.pch
 
@@ -25,7 +37,7 @@ luac.out
 *.def
 *.exp
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects (including Windows DLLs)
 *.dll
 *.so
 *.so.*
@@ -38,4 +50,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-

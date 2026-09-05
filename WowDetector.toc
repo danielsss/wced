@@ -1,0 +1,22 @@
+## Interface: 11509
+## Title: Wow Classic Enemy Detector
+## Title-zhCN: Wow Classic Enemy Detector
+## Notes: Enemy detection and Battle.net relay for Classic Era
+## Notes-zhCN: 敌对阵营侦测与战网中继（经典怀旧服永久60级）
+## Author: 璀璨小沐可
+## Version: 0.28.14
+## X-Website: https://github.com/danielsss/wced
+## SavedVariables: WowDetectorDB
+
+Bootstrap.lua
+Locale.lua
+Core.lua
+Tracking.lua
+Queries.lua
+Team.lua
+Spy.lua
+EnemyWatcher.lua
+Help.lua
+SystemMenu.lua
+UI.lua
+Main.lua
